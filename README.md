@@ -3,10 +3,10 @@
 A high-fidelity interactive product experience showing how Xai transforms raw data into structured intelligence, actionable insight, and AI automations.
 
 ## Live Demo
-- Vercel: upcoming
+- Vercel: https://xai-intelligence-workspace-five.vercel.app/
 
 ## Figma
-- Public Figma link: upcoming
+- Public Figma link: coming soon
 
 ## Tech Stack
 - Next.js App Router
