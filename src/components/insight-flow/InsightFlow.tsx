@@ -56,7 +56,7 @@ export function InsightFlow() {
 
       <motion.div
         style={{ scaleX: lineScale }}
-        className="mb-8 h-px origin-left bg-gradient-to-r from-cyan-400 via-blue-400 to-violet-400"
+        className="mb-8 h-px origin-left bg-linear-to-r from-cyan-400 via-blue-400 to-violet-400"
       />
 
       <div className="grid gap-4 md:grid-cols-3">
